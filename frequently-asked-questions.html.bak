@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Keep Your Car in Bankruptcy FAQ - Vehicle Protection Questions</title>
+<meta name="description" content="Common questions about keeping your car during bankruptcy, reaffirmation agreements, vehicle exemptions, and cramdowns.">
+<meta name="keywords" content="keep car bankruptcy, reaffirmation agreement, vehicle exemption, car cramdown Chapter 13">
+<link rel="canonical" href="https://keepmycarinbankruptcy.com/frequently-asked-questions.html">
+<link rel="alternate" hreflang="en" href="https://keepmycarinbankruptcy.com/frequently-asked-questions.html">
+<link rel="alternate" hreflang="es" href="https://keepmycarinbankruptcy.com/frequently-asked-questions-es.html">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Keep Your Car in Bankruptcy FAQ - Vehicle Protection Questions">
+<meta property="og:description" content="Common questions about keeping your car during bankruptcy, reaffirmation agreements, vehicle exemptions, and cramdowns.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://keepmycarinbankruptcy.com/frequently-asked-questions.html">
+<meta property="og:site_name" content="keepmycarinbankruptcy.com">
+<meta property="og:image" content="/og-image.svg">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Keep Your Car in Bankruptcy FAQ - Vehicle Protection Questions">
+<meta name="twitter:description" content="Common questions about keeping your car during bankruptcy, reaffirmation agreements, vehicle exemptions, and cramdowns.">
+<meta name="twitter:image" content="/og-image.svg">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I keep my car if I file Chapter 7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in most cases. If your car equity is within your state's vehicle exemption, the trustee cannot take it. You must be current on payments and either reaffirm the loan, redeem the vehicle, or continue making payments (ride-through, in courts that allow it)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a reaffirmation agreement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A reaffirmation agreement is a legal document where you agree to remain personally liable for a car loan after bankruptcy. You keep making payments and keep the car, but you give up the protection of the discharge for that debt. If you later default, the lender can repossess and sue for the deficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I sign a reaffirmation agreement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends. Reaffirmation keeps your payment history reporting to credit bureaus (helping rebuild credit) and may prevent the lender from repossessing. However, it makes you personally liable again. If the car is worth less than you owe, or if you are struggling financially, reaffirmation may not be wise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a car cramdown in Chapter 13?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A cramdown allows you to reduce your car loan balance to the vehicle's current market value if you purchased the car more than 910 days before filing. For example, if you owe $20,000 on a car worth $12,000, you can pay just $12,000 through your plan at a court-approved interest rate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the 910-day rule for car loans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under the hanging paragraph of Section 1325(a), if you purchased your car within 910 days (about 2.5 years) of filing Chapter 13, you cannot cram down the loan. You must pay the full balance. Cars purchased more than 910 days before filing are eligible for cramdown."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the vehicle exemption in my state?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vehicle exemptions vary widely by state. Texas allows $2,500 per family member, while some states allow up to $25,000. The federal exemption is $4,450. Visit bankruptcyexemptionsbystate.com for your state's specific vehicle exemption amount."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I keep a leased car in bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. In Chapter 7, you can assume the lease by continuing payments. In Chapter 13, the lease payments are included in your plan. You must decide whether to assume or reject the lease within 60 days of filing, or the lease is deemed rejected."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I owe more than my car is worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are 'upside down' on your car loan, a Chapter 13 cramdown (if eligible) can reduce the loan to the car's value. In Chapter 7, you can surrender the car and discharge the deficiency, or reaffirm if you want to keep it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can the lender repossess my car after I file bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not without court permission. The automatic stay prevents repossession immediately upon filing. If the lender violates the stay, they can be held in contempt. However, if you stop making payments and do not reaffirm, the lender can eventually get relief from the stay."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens to my car if I surrender it in bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you surrender your car in Chapter 7, the lender takes the vehicle and the remaining deficiency balance is discharged. You will need to arrange alternative transportation. In Chapter 13, you can include a replacement vehicle purchase in your plan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I buy a car during bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Chapter 7, wait until after discharge. In Chapter 13, you need court approval to take on new debt during your plan. File a motion to incur debt explaining why a vehicle purchase is necessary. Courts generally approve reasonable vehicle purchases."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does bankruptcy affect my car insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bankruptcy itself does not affect your car insurance. However, some insurers may review your credit-based insurance score. Keep your insurance current throughout the bankruptcy process - a lapse could be grounds for the lender to seek relief from the automatic stay."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I keep two cars in bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the equity in both vehicles is covered by exemptions. Some states allow separate exemptions for each vehicle, while others have a single vehicle exemption. Married couples filing jointly may be able to double the vehicle exemption."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if my car was recently repossessed - can I get it back?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the car has not been sold, filing bankruptcy triggers the automatic stay and may require the lender to return the vehicle. The longer you wait, the less likely recovery becomes. In some states, the turnover provision under Section 542 requires return of repossessed property."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I have to keep paying my car loan during bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Chapter 7, you should continue payments if you want to keep the car. In Chapter 13, car payments are made through your plan. Stopping payments signals to the lender that you may be surrendering the vehicle and they may seek relief from the stay."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Open Bankruptcy Project",
+      "item": "https://openbankruptcyproject.org"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "keepmycarinbankruptcy.com",
+      "item": "https://keepmycarinbankruptcy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "FAQ",
+      "item": "https://keepmycarinbankruptcy.com/frequently-asked-questions.html"
+    }
+  ]
+}
+</script>
+
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .skip-link {
+    position: absolute; left: -9999px; top: auto;
+    width: 1px; height: 1px; overflow: hidden; z-index: 9999;
+    padding: 1rem; background: #238636; color: #fff;
+    font-weight: 600; text-decoration: none;
+  }
+  .skip-link:focus {
+    position: fixed; top: 10px; left: 10px;
+    width: auto; height: auto; overflow: visible;
+  }
+  nav {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  nav .site-name {
+    color: #f0f6fc;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  header h1 {
+    color: #f0f6fc;
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  header .subtitle {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  main {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+  .faq-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin: 0.75rem 0;
+    overflow: hidden;
+  }
+  .faq-item summary {
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--text);
+    list-style: none;
+    position: relative;
+    padding-right: 2.5rem;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary::after {
+    content: '+';
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.3rem;
+    color: var(--accent);
+    font-weight: 400;
+  }
+  .faq-item[open] summary::after { content: '-'; }
+  .faq-item[open] summary {
+    border-bottom: 1px solid var(--border);
+    background: rgba(88,166,255,0.05);
+  }
+  .faq-item p {
+    padding: 1rem 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+  .related-pages, .crosslinks {
+    margin: 2.5rem 0 1.5rem;
+    padding: 1.5rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .related-pages h2, .crosslinks h2 {
+    color: var(--accent);
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+  }
+  .related-pages ul, .crosslinks ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .related-pages li, .crosslinks li {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+  footer {
+    text-align: center;
+    padding: 2rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+  footer .links { margin: 1rem 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; }
+  footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  footer .disclaimer { max-width: 700px; margin: 1rem auto 0; font-size: 0.8rem; color: #7d8590; }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.4rem; }
+    nav { padding: 0.5rem 1rem; }
+    main { padding: 1.5rem 1rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+</head>
+<body>
+<a href="#main" class="skip-link">Skip to main content</a>
+<nav aria-label="Main navigation">
+  <a href="/" class="site-name">keepmycarinbankruptcy.com</a>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/frequently-asked-questions.html" class="active">FAQ</a>
+    <a href="/frequently-asked-questions-es.html">Espanol</a>
+  </div>
+</nav>
+<header>
+  <h1>Keep Your Car in Bankruptcy FAQ - Vehicle Protection Questions</h1>
+  <p class="subtitle">Common questions about keeping your car during bankruptcy, reaffirmation agreements, vehicle exemptions, and cramdowns.</p>
+</header>
+<main id="main">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a><span class="separator">&rsaquo;</span><a href="https://keepmycarinbankruptcy.com/">keepmycarinbankruptcy.com</a><span class="separator">&rsaquo;</span><span>FAQ</span></nav>
+
+  <div class="faq-list" role="list">
+    <details class="faq-item">
+      <summary>Can I keep my car if I file <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>?</summary>
+      <p>Yes, in most cases. If your car equity is within your state's vehicle exemption, the trustee cannot take it. You must be current on payments and either reaffirm the loan, redeem the vehicle, or continue making payments (ride-through, in courts that allow it).</p>
+    </details>
+    <details class="faq-item">
+      <summary>What is a <a href="https://reaffirmationagreement.org/" title="reaffirmation agreement">reaffirmation agreement</a>?</summary>
+      <p>A <a href="https://reaffirmationagreement.org/" title="reaffirmation agreement">reaffirmation agreement</a> is a legal document where you agree to remain personally liable for a car loan after bankruptcy. You keep making payments and keep the car, but you give up the protection of the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> for that debt. If you later default, the lender can repossess and sue for the deficiency.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Should I sign a reaffirmation agreement?</summary>
+      <p>It depends. Reaffirmation keeps your payment history reporting to credit bureaus (helping <a href="https://rebuildcreditafterbankruptcy.com/" title="rebuild credit">rebuild credit</a>) and may prevent the lender from repossessing. However, it makes you personally liable again. If the car is worth less than you owe, or if you are struggling financially, reaffirmation may not be wise.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What is a car <a href="https://section1192.org/" title="cramdown">cramdown</a> in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>?</summary>
+      <p>A cramdown allows you to reduce your car loan balance to the vehicle's current market value if you purchased the car more than 910 days before filing. For example, if you owe $20,000 on a car worth $12,000, you can pay just $12,000 through your plan at a court-approved interest rate.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What is the 910-day rule for car loans?</summary>
+      <p>Under the hanging paragraph of Section 1325(a), if you purchased your car within 910 days (about 2.5 years) of filing <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, you cannot <a href="https://section1192.org/" title="cramdown">cram down</a> the loan. You must pay the full balance. Cars purchased more than 910 days before filing are eligible for cramdown.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What is the vehicle exemption in my state?</summary>
+      <p>Vehicle <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> vary widely by state. Texas allows $2,500 per family member, while some states allow up to $25,000. The federal exemption is $4,450. Visit bankruptcyexemptionsbystate.com for your state's specific vehicle exemption amount.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can I keep a leased car in bankruptcy?</summary>
+      <p>Yes. In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, you can assume the lease by continuing payments. In Chapter 13, the lease payments are included in your plan. You must decide whether to assume or reject the lease within 60 days of filing, or the lease is deemed rejected.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What if I owe more than my car is worth?</summary>
+      <p>If you are 'upside down' on your car loan, a Chapter 13 cramdown (if eligible) can reduce the loan to the car's value. In Chapter 7, you can surrender the car and <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> the deficiency, or reaffirm if you want to keep it.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can the lender repossess my car after I file bankruptcy?</summary>
+      <p>Not without court permission. The <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> prevents repossession immediately upon filing. If the lender violates the stay, they can be held in contempt. However, if you stop making payments and do not reaffirm, the lender can eventually get relief from the stay.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What happens to my car if I surrender it in bankruptcy?</summary>
+      <p>If you surrender your car in Chapter 7, the lender takes the vehicle and the remaining deficiency balance is discharged. You will need to arrange alternative transportation. In Chapter 13, you can include a replacement vehicle purchase in your plan.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can I buy a car during bankruptcy?</summary>
+      <p>In Chapter 7, wait until after discharge. In Chapter 13, you need court approval to take on new debt during your plan. File a motion to incur debt explaining why a vehicle purchase is necessary. Courts generally approve reasonable vehicle purchases.</p>
+    </details>
+    <details class="faq-item">
+      <summary>How does bankruptcy affect my car insurance?</summary>
+      <p>Bankruptcy itself does not affect your car insurance. However, some insurers may review your credit-based insurance score. Keep your insurance current throughout the bankruptcy process - a lapse could be grounds for the lender to seek relief from the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a>.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can I keep two cars in bankruptcy?</summary>
+      <p>Yes, if the equity in both vehicles is covered by <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a>. Some states allow separate exemptions for each vehicle, while others have a single vehicle exemption. Married couples filing jointly may be able to double the vehicle exemption.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What if my car was recently repossessed - can I get it back?</summary>
+      <p>If the car has not been sold, filing bankruptcy triggers the automatic stay and may require the lender to return the vehicle. The longer you wait, the less likely recovery becomes. In some states, the turnover provision under Section 542 requires return of repossessed property.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Do I have to keep paying my car loan during bankruptcy?</summary>
+      <p>In Chapter 7, you should continue payments if you want to keep the car. In Chapter 13, car payments are made through your plan. Stopping payments signals to the lender that you may be surrendering the vehicle and they may seek relief from the stay.</p>
+    </details>
+  </div>
+    <div class="related-pages">
+      <h2>More Resources on This Site</h2>
+      <ul>
+        <li><a href="/chapter-7-car.html">Chapter 7 Car</a></li>
+        <li><a href="/chapter-13-car.html">Chapter 13 Car</a></li>
+        <li><a href="/reaffirmation.html">Reaffirmation</a></li>
+        <li><a href="/car-exemptions.html">Car Exemptions</a></li>
+        <li><a href="/behind-on-payments.html">Behind on Payments</a></li>
+        <li><a href="/surrender-options.html">Surrender Options</a></li>
+      </ul>
+    </div>
+    <div class="crosslinks">
+      <h2>Related Resources</h2>
+      <ul>
+        <li><a href="https://bankruptcyexemptionsbystate.com/vehicle-exemptions.html?utm_source=keepmycarinbankruptcy.com&utm_medium=paa-faq&utm_campaign=btn-network">Vehicle Exemptions by State</a></li>
+        <li><a href="https://chapter7vs13.org?utm_source=keepmycarinbankruptcy.com&utm_medium=paa-faq&utm_campaign=btn-network">Chapter 7 vs Chapter 13</a></li>
+        <li><a href="https://automaticstay.org?utm_source=keepmycarinbankruptcy.com&utm_medium=paa-faq&utm_campaign=btn-network">Automatic Stay</a></li>
+      </ul>
+    </div>
+
+</main>
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+  <p><strong>Open Bankruptcy Project</strong></p>
+  <p>Real information, no strings.</p>
+  <div class="links">
+    <a href="https://openbankruptcyproject.org?utm_source=keepmycarinbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">openbankruptcyproject.org</a>
+    <a href="https://1328f.com?utm_source=keepmycarinbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">1328f.com</a>
+    <a href="https://chapter7vs13.org?utm_source=keepmycarinbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">chapter7vs13.org</a>
+    <a href="https://bankruptcymeanstest.org?utm_source=keepmycarinbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">bankruptcymeanstest.org</a>
+    <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.4rem 1rem;border-radius:6px;font-weight:600;font-size:0.85rem;text-decoration:none">&#9829; Sponsor</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590">Terms</a></p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>
